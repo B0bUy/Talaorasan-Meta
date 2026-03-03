@@ -4,3 +4,6 @@
 [submodule "Server"]
 	path = Server
 	url = https://github.com/B0bUy/Talaorasan-Server.git
+[submodule "FrontEnd-Web"]
+	path = FrontEnd-Web
+	url = https://github.com/B0bUy/Talaorasan-FrontEnd-Web.git
