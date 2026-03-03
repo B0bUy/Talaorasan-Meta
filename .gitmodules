@@ -7,3 +7,6 @@
 [submodule "FrontEnd-Web"]
 	path = FrontEnd-Web
 	url = https://github.com/B0bUy/Talaorasan-FrontEnd-Web.git
+[submodule "FrontEnd-Maui"]
+	path = FrontEnd-Maui
+	url = https://github.com/B0bUy/Talaorasan-FrontEnd-Maui.git
